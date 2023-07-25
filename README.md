@@ -21,31 +21,32 @@
 
 </pre>
 
-## 📜️ - Table of Contents (ToC)
+## 📜️ - Table of Contents (ToC) <a id="ToC"></a>
 
 <details><summary>Table of Contents (ToC)</summary>
 
-- [🙋️ - About Me](#------about-me)
-- [🛠️ - Tech Stack](#------tech-stack)
-- [🚀 - Projects](#-----projects)
-- [📚 - Articles & Blog Posts](#-----articles---blog-posts)
-- [📫 - Let's Connect](#-----let-s-connect)
-- [👋️ - Goodbye](#------goodbye)
+- [🙋️ - About Me](#about-me)
+- [🛠️ - Tech Stack](#tech-stack)
+- [🚀 - Projects](#projects)
+- [📚 - Articles & Blog Posts](#articles-&-blog-posts)
+- [📫 - Let's Connect](#let-s-connect)
+- [👋️ - Goodbye](#goodbye)
 
 </details>
 
-## 🙋️ - About Me
+
+## 🙋️ - About Me <a id="about-me"></a>
 
 * 🎓 Currently pursuing a degree in Software Engineering, diving deep into the world of computer science and software development.
 * 🌱 I’m constantly learning and experimenting with new technologies, and Spring framework have captured my heart.
 * 💼 Open to exciting internships and job opportunities in the software development field.
 
 <p align="right">
-<a href="#%EF%B8%8F---table-of-contents-toc">🔝️ Back to top</a>
+<a href="#ToC">🔝️ Back to top</a>
 </p>
 
 
-## 🛠️ - Tech Stack
+## 🛠️ - Tech Stack <a id="tech-stack"></a>
 
 * Programming Languages:<br>
     ![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black "Java")
@@ -99,10 +100,10 @@
 
 
 <p align="right">
-<a href="#%EF%B8%8F---table-of-contents-toc">🔝️ Back to top</a>
+<a href="#ToC">🔝️ Back to top</a>
 </p>
 
-## 🚀 - Projects
+## 🚀 - Projects <a id="projects"></a>
 
 Here are some of the cool projects I've been working on:
 
@@ -119,20 +120,20 @@ Feel free to explore [my repositories][my-repos] to find the source code and det
 [my-repos]: https://github.com/el-amine-404?tab=repositories
 
 <p align="right">
-<a href="#%EF%B8%8F---table-of-contents-toc">🔝️ Back to top</a>
+<a href="#ToC">🔝️ Back to top</a>
 </p>
 
-## 📚 - Articles & Blog Posts
+## 📚 - Articles & Blog Posts <a id="articles-&-blog-posts"></a>
 
 Apart from coding, I also enjoy writing articles and blog posting in order to give back to the community<br>
 Check out some of my articles and blog posts:
 * [Test article](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <p align="right">
-<a href="#%EF%B8%8F---table-of-contents-toc">🔝️ Back to top</a>
+<a href="#ToC">🔝️ Back to top</a>
 </p>
 
-## 📫 - Let's Connect
+## 📫 - Let's Connect <a id="let-s-connect"></a>
 
 I'm always excited to meet fellow developers, so let's connect and grow together:
 
@@ -153,10 +154,10 @@ I'm always excited to meet fellow developers, so let's connect and grow together
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat!
 
 <p align="right">
-<a href="#%EF%B8%8F---table-of-contents-toc">🔝️ Back to top</a>
+<a href="#ToC">🔝️ Back to top</a>
 </p>
 
-## 👋️ - Goodbye
+## 👋️ - Goodbye <a id="goodbye"></a>
 
 Thanks for visiting my GitHub profile, and happy coding! 🚀
 
@@ -165,5 +166,5 @@ Thanks for visiting my GitHub profile, and happy coding! 🚀
 </p>
 
 <p align="right">
-<a href="#%EF%B8%8F---table-of-contents-toc">🔝️ Back to top</a>
+<a href="#ToC">🔝️ Back to top</a>
 </p>
