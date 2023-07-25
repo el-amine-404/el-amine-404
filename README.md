@@ -1,5 +1,3 @@
-<p align="center">
-
 <pre>
        ❤️ - Welcome to my Github profile - ❤️
 
@@ -23,18 +21,16 @@
 
 </pre>
 
-</p>
-
 ## 📜️ - Table of Contents (ToC)
 
 <details><summary>Table of Contents (ToC)</summary>
 
-- [🙋️ - About Me](#🙋️---about-me)
-- [🛠️ - Tech Stack](#🛠️---tech-stack)
-- [🚀 - Projects](#🚀---projects)
-- [📚 - Articles & Blog Posts](#📚---articles--blog-posts)
-- [📫 - Let's Connect](#📫---lets-connect)
-- [👋️ - Goodbye](#👋️---goodbye)
+- [🙋️ - About Me](#------about-me)
+- [🛠️ - Tech Stack](#------tech-stack)
+- [🚀 - Projects](#-----projects)
+- [📚 - Articles & Blog Posts](#-----articles---blog-posts)
+- [📫 - Let's Connect](#-----let-s-connect)
+- [👋️ - Goodbye](#------goodbye)
 
 </details>
 
@@ -45,7 +41,7 @@
 * 💼 Open to exciting internships and job opportunities in the software development field.
 
 <p align="right">
-<a href="#📜️---table-of-contents-toc">🔝️ Back to top</a>
+<a href="#%EF%B8%8F---table-of-contents-toc">🔝️ Back to top</a>
 </p>
 
 
@@ -103,7 +99,7 @@
 
 
 <p align="right">
-<a href="#📜️---table-of-contents-toc">🔝️ Back to top</a>
+<a href="#%EF%B8%8F---table-of-contents-toc">🔝️ Back to top</a>
 </p>
 
 ## 🚀 - Projects
@@ -123,7 +119,7 @@ Feel free to explore [my repositories][my-repos] to find the source code and det
 [my-repos]: https://github.com/el-amine-404?tab=repositories
 
 <p align="right">
-<a href="#📜️---table-of-contents-toc">🔝️ Back to top</a>
+<a href="#%EF%B8%8F---table-of-contents-toc">🔝️ Back to top</a>
 </p>
 
 ## 📚 - Articles & Blog Posts
@@ -133,7 +129,7 @@ Check out some of my articles and blog posts:
 * [Test article](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <p align="right">
-<a href="#📜️---table-of-contents-toc">🔝️ Back to top</a>
+<a href="#%EF%B8%8F---table-of-contents-toc">🔝️ Back to top</a>
 </p>
 
 ## 📫 - Let's Connect
@@ -157,7 +153,7 @@ I'm always excited to meet fellow developers, so let's connect and grow together
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat!
 
 <p align="right">
-<a href="#📜️---table-of-contents-toc">🔝️ Back to top</a>
+<a href="#%EF%B8%8F---table-of-contents-toc">🔝️ Back to top</a>
 </p>
 
 ## 👋️ - Goodbye
@@ -169,5 +165,5 @@ Thanks for visiting my GitHub profile, and happy coding! 🚀
 </p>
 
 <p align="right">
-<a href="#📜️---table-of-contents-toc">🔝️ Back to top</a>
+<a href="#%EF%B8%8F---table-of-contents-toc">🔝️ Back to top</a>
 </p>
