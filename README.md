@@ -42,7 +42,7 @@
 * 💼 Open to exciting internships and job opportunities in the software development field.
 
 <p align="right">
-<a href="#ToC">🔝️ Back to top</a>
+  <a href="#ToC">🔝️ Back to top</a>
 </p>
 
 
@@ -51,56 +51,56 @@
 * Programming Languages:<br>
     ![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black "Java")
     ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white "Python")
-    ![C# (C-sharp)](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white "PHP")
-    ![C# (C-sharp)](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white "PHP")
-    ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-    ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-    ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    ![C](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")<br>
+    ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white "C")
+    ![C# (C-sharp)](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white "C# (C-sharp)")
+    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
+    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS3")
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
+    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")<br>
     *Note: Some people do not consider HTML and CSS as real programming languages, but at the end what really matters is the important role these two technologies have in the web*
 
 * Web Development Frameworks:<br>
-    ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-    ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-    ![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+    ![Bootstarp](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")
+    ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white "Spring")
+    ![Springboot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white "Springboot")
 
 * Virtualization:<br>
-    ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-    ![](https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-    ![](https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white "Docker")
+    ![Virtualbox](https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white "Virtualbox")
+    ![Vmware](https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white "Vmware")
 
 * Operating Systems:<br>
-    ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-    ![](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black "Linux")
+    ![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white "Bash")
+    ![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white "Windows")
 
 * Web Servers:<br>
-    ![](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white "PHP")
+    ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white "Apache")
 
 * Markup & Documentation:<br>
-    ![](https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=latex&logoColor=white)
-    ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+    ![Latex](https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=latex&logoColor=white "Latex")
+    ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white "Markdown")
 
 * Databases:<br>
-    ![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white "MySQL")
 
 * Version Control & Collaboration:<br>
-    ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-    ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white "Git")
+    ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white "Github")
 
 * Modeling language:<br>
-    ![](https://img.shields.io/badge/uml-FABD14?style=for-the-badge&logo=uml&logoColor=white)
+    ![UML](https://img.shields.io/badge/uml-FABD14?style=for-the-badge&logo=uml&logoColor=white "UML")
 
 * API Development and Testing:<br>
-    ![](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+    ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")
 
 * IDE:<br>
-    ![](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-    ![](https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+    ![VScode](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white "VScode")
+    ![Intellij IDEA](https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white "Intellij IDEA")
 
 
 <p align="right">
-<a href="#ToC">🔝️ Back to top</a>
+  <a href="#ToC">🔝️ Back to top</a>
 </p>
 
 ## 🚀 - Projects <a id="projects"></a>
@@ -137,24 +137,46 @@ Check out some of my articles and blog posts:
 
 I'm always excited to meet fellow developers, so let's connect and grow together:
 
-<a href="mailto:elhoujjajiamine@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://www.tiktok.com/" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
-<a href="https://stackoverflow.com/" target="_blank"><img src="https://img.shields.io/badge/Stack Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
-<a href="https://www.reddit.com/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-<a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
-<a href="https://quora.com/" target="_blank"><img src="https://img.shields.io/badge/quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"></a>
-<a href="https://medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="https://hub.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+<a href="mailto:elhoujjajiamine@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.instagram.com/" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.facebook.com/" target="_blank">
+  <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+<a href="https://www.tiktok.com/" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+<a href="https://twitter.com/" target="_blank">
+  <img src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+</a>
+<a href="https://stackoverflow.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Stack Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white">
+</a>
+<a href="https://www.reddit.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+</a>
+<a href="https://dev.to/" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+</a>
+<a href="https://quora.com/" target="_blank">
+  <img src="https://img.shields.io/badge/quora-B92B27?style=for-the-badge&logo=quora&logoColor=white">
+</a>
+<a href="https://medium.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+<a href="https://hub.docker.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Docker Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</a>
 
 
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat!
 
 <p align="right">
-<a href="#ToC">🔝️ Back to top</a>
+  <a href="#ToC">🔝️ Back to top</a>
 </p>
 
 ## 👋️ - Goodbye <a id="goodbye"></a>
@@ -162,9 +184,11 @@ Feel free to reach out if you have any questions, collaboration ideas, or just w
 Thanks for visiting my GitHub profile, and happy coding! 🚀
 
 <p align="center">
-<img alt="Octocat" width="300px" src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?ep=v1_gifs_search">
+  <img alt="Octocat"
+       width="300px"
+       src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?ep=v1_gifs_search">
 </p>
 
 <p align="right">
-<a href="#ToC">🔝️ Back to top</a>
+  <a href="#ToC">🔝️ Back to top</a>
 </p>
