@@ -72,7 +72,8 @@
 * Operating Systems:<br>
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black "Linux")
     ![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white "Bash")
-    ![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white "Windows")
+    ![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white "Windows")<br>
+    *Note: Bash (Bourne Again Shell) is a Unix shell and not an operating system, allowing users to interact with the system and automate tasks efficiently.*
 
 * Web Servers:<br>
     ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white "Apache")
