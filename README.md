@@ -147,10 +147,10 @@ I'm always excited to meet fellow developers, so let's connect and grow together
 <a href="https://www.facebook.com/" target="_blank">
   <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
-<a href="https://www.tiktok.com/" target="_blank">
+<a href="https://twitter.com/" target="_blank">
   <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
-<a href="https://twitter.com/" target="_blank">
+<a href="https://www.tiktok.com/" target="_blank">
   <img src="https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
 </a>
 <a href="https://stackoverflow.com/" target="_blank">
