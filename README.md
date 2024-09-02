@@ -2,7 +2,7 @@
 
 <div align="right">
   <a href='https://linkedin.com/in/amine-el-houjjaji'><img alt="linkedin" src="https://skillicons.dev/icons?i=linkedin" height='30px'/></a>
-  <a href='https://stackoverflow.com/users/23458830/0xamine'><img alt="stackoverflow" src="https://skillicons.dev/icons?i=stackoverflow" height='30px'/></a>
+  <a href='https://stackoverflow.com/u/23458830'><img alt="stackoverflow" src="https://skillicons.dev/icons?i=stackoverflow" height='30px'/></a>
 </div>
 
 - 🎓 Currently pursuing a degree in Software Engineering, diving deep into the world of computer science and software development.
